@@ -1,0 +1,1 @@
+This is my Project where I implemented object detection using the YOLOv5 algorithm to prevent crop vandalism by animals and humans. The aim is to run this code on a raspberry pi connected to a camera module and an alarm to scare away animals. Also for further alerts I have added a GSM module to send SMS alerts to the farmer.
